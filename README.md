@@ -1,6 +1,6 @@
 # Worth to know
 
-## Here I collect all useful resources on topics like Math, Computers & anything I Like
+## Here I collect all useful resources on topics like math, computers or anything I like.
 
 
 ### [Software](/Softawre%20Development/Software.md)
