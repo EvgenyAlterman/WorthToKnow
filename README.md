@@ -3,7 +3,7 @@
 ## Here I collect all useful resources on topics like Math, Computers & anything I Like
 
 
-[Software](/Softawre Development/Software.md)
+[Software](/Softawre%20Development/Software.md)
 [Math](/Scince/Math.md)
 [Physics](/Scince/Physics.md)
 
