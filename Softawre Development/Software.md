@@ -9,3 +9,10 @@ Channel | Description
 [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
 [Computer History Museum](https://www.youtube.com/user/ComputerHistory) | 
 [code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ)
+
+
+## Podcasts
+
+Name | Link | Website | Description
+---- | ---- | ------- | ----------- 
+.NET Rocks | [Google](https://podcasts.google.com/feed/aHR0cDovL3d3dy5wd29wLmNvbS9mZWVkLmFzcHg_c2hvdz1kb3RuZXRyb2NrcyZmaWxldHlwZT1tYXN0ZXI) / [Apple](https://podcasts.apple.com/il/podcast/net-rocks/id127976205) | https://www.dotnetrocks.com | |
