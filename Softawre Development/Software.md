@@ -16,3 +16,10 @@ Channel | Description
 Name | Link | Website | Description
 ---- | ---- | ------- | ----------- 
 .NET Rocks | [Google](https://podcasts.google.com/feed/aHR0cDovL3d3dy5wd29wLmNvbS9mZWVkLmFzcHg_c2hvdz1kb3RuZXRyb2NrcyZmaWxldHlwZT1tYXN0ZXI) / [Apple](https://podcasts.apple.com/il/podcast/net-rocks/id127976205) | https://www.dotnetrocks.com | |
+
+
+## Blogs
+
+Name | Link | Description
+---- | ---- | -----------
+ Michael's Coding Spot| https://michaelscodingspot.com | One of the best Blogs about C#/.NET/Debugging/Software
