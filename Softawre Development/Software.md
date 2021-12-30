@@ -25,4 +25,4 @@ Name | Link | Website | Description
 Name |  Description
 ---- |  -----------
  [Michael's Coding Spot](https://michaelscodingspot.com) | One of the best Blogs about C#/.NET/Debugging/Software
-  | 
+ [Kent C. Dodds](https://kentcdodds.com/blog) | Web Development related content.
